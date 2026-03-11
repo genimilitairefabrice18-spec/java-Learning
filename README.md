@@ -1,2 +1,2 @@
 # java-Learning
-Pour mes projets Java
+Pour mes projets d'apprentissage Java
